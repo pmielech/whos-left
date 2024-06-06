@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="e85bce9d-c8a1-4a46-9182-62ae0c074a50" name="Microsoft SQL Server LocalDB (JetBrains) Mapping">
+      <data-sources db="72bc6734-93b2-47a8-a377-5be2e2ec4b88" ddl="2d321272-7f49-49e4-bf3c-fefb27909f65" />
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="2d321272-7f49-49e4-bf3c-fefb27909f65" />
+          <option name="name" value="Microsoft SQL Server LocalDB (JetBrains) (DDL)" />
+          <option name="dbmsName" value="MSSQL" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/WhosLeft/Data" />
+            </array>
+          </option>
+          <option name="outLayout" value="File per object by schema.groovy" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
