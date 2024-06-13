@@ -15,6 +15,8 @@ namespace WhosLeft.Data
         {
 
         }
+ 
+        public DbSet<AbsenceType> AbsenceTypes { get; set; }
 
     }
 
